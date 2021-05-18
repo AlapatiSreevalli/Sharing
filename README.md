@@ -25,5 +25,5 @@ _this is also italic_
        * item A
        * item B
  # Links:
- [Google](www.google.com)
+ [Google](https://google.com)
     
