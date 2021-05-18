@@ -57,6 +57,6 @@ HTML      | 85%
 
 ## Email:
 
-mail id is : (alapati5sreevalli@gmail.com)
+mail id is :(alapati5sreevalli@gmail.com)
 
 
