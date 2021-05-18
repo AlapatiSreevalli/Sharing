@@ -18,12 +18,14 @@ _this is also italic_
     2. Item2
     3. Item3
     4. Item4
+    
  - Unordered List:
  
     * Item1
     * Item2
        * item A
        * item B
+       * 
  # Links:
  
  [Google](https://google.com)
