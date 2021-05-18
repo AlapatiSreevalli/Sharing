@@ -25,5 +25,11 @@ _this is also italic_
        * item A
        * item B
  # Links:
+ 
  [Google](https://google.com)
-    
+ 
+ [Github](https://github.com)
+
+# Images:
+
+![image](https://user-images.githubusercontent.com/84225895/118591239-78e86780-b7c1-11eb-815a-789feca10062.png)
