@@ -8,7 +8,7 @@
 
 _this is also italic_
 
-<h>hello</h1>
+<h>**hello**</h1>
 
 # Lists
 
@@ -50,3 +50,4 @@ Python    | 95%
 Java      | 80%
 HTML      | 85%
 
+:smile:
