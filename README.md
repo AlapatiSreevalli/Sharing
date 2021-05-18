@@ -37,3 +37,16 @@ _this is also italic_
 # Blockquotes
 
 > this is blockquotes
+
+## inline code
+
+`Mic College`
+
+# Table creating
+
+Technology|Percentage
+----------|----------
+Python    | 95%
+Java      | 80%
+HTML      | 85%
+
